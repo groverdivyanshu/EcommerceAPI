@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "64e5f1d10ab6441374da8cbd"
+  },
+  "name": "laptop",
+  "quantity": 123,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1692791249136"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1693051212977"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64e5f2cfe4ba06f31ef26994"
+  },
+  "name": "lapotp",
+  "quantity": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1692791503092"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1692791503092"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64e5f2d7e4ba06f31ef26996"
+  },
+  "name": "lapotp",
+  "quantity": 50,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1692791511362"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1692791511362"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64e6eed6a2cb43f9e82541fb"
+  },
+  "name": "divyanshu",
+  "quantity": 10,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1692856022580"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1692856022580"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64e6eee0a2cb43f9e82541fd"
+  },
+  "name": "laptop",
+  "quantity": 100,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1692856032998"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1692856032998"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ead74c78b760f75aa5d988"
+  },
+  "name": "Mobile",
+  "quantity": 12,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1693112140763"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1693112140763"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ead75678b760f75aa5d98a"
+  },
+  "name": "shoes",
+  "quantity": 14,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1693112150895"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1693112150895"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ead75f78b760f75aa5d98c"
+  },
+  "name": "car",
+  "quantity": 20,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1693112159001"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1693112159001"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64ead76d78b760f75aa5d98e"
+  },
+  "name": "racket",
+  "quantity": 40,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1693112173439"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1693112173439"
+    }
+  },
+  "__v": 0
+}]
